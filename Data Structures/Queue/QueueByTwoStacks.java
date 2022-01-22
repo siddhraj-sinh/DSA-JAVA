@@ -1,3 +1,6 @@
+/*
+time complexity of push O(n) and pop O(1)
+*/
 import java.util.*;
 class QueueByTwoStacks{
 
